@@ -1,9 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11e498d6-8751-4f06-a1bc-d5e60dd29e7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/androidTest/java/com/example/databindingsample/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/java/com/example/databindingsample/CountViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/java/com/example/databindingsample/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/app/src/test/java/com/example/databindingsample/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBindingSample/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yQAnTuU1rEbFhwWhoDpkTpGgz4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11e498d6-8751-4f06-a1bc-d5e60dd29e7c" name="Default Changelist" comment="" />
+      <created>1632173607468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632173607468</updated>
+    </task>
+    <servers />
   </component>
 </project>
